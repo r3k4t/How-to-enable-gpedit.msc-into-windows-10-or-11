@@ -6,7 +6,7 @@
 
 
 + Open Command Prompt with  run as administration
-<h6>Command Prompt(CMD)Command</h6>
+<h6>Command Prompt(CMD)Command:</h6>
 
 + FOR %F IN ("%SystemRoot%\servicing\Packages\Microsoft-Windows-GroupPolicy-ClientTools-Package~*.mum") DO (
 DISM /Online /NoRestart /Add-Package:"%F" )
