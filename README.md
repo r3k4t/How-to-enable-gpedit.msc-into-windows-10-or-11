@@ -1,5 +1,7 @@
 # How to enable gpedit.msc into windows 10 or 11
 
+![windows-10-gpedit-msc-yok-acilmiyor](https://user-images.githubusercontent.com/69615463/137348593-76fcf5fe-d8be-4825-b8ff-0679281adc77.jpg)
+
 ### Example:(Windows 10 Home) ###
 
 <h6>Solution:</h6>
